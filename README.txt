@@ -1,3 +1,3 @@
 Hello World
-This is first file.:wq
+This is first file.
 
